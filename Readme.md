@@ -1,3 +1,3 @@
-# taller 2
+# Taller 2
 
-# Omar leiva
+## Omar leiva
